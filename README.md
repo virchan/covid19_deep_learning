@@ -43,7 +43,7 @@ Using a confusion matrix and a classification report, our model performance is
 
 <img src="img/model_evaluation.jpg" style="width:280px;"/>
 
-Our work is documented in the Jupyter notebook `meirnizri_covid19_dataset.ipynb` ([html](https://htmlpreview.github.io/?https://github.com/virchan/covid19_deep_learning/blob/main/meirnizri_covid19_dataset.html)). A copy `covid19.h5` of our model is also provided here.
+Our work is documented in the Jupyter notebook `meirnizri_covid19_dataset.ipynb` ([ipynb](https://nbviewer.org/github/virchan/covid19_deep_learning/blob/main/meirnizri_covid19_dataset.ipynb), [html](https://htmlpreview.github.io/?https://github.com/virchan/covid19_deep_learning/blob/main/meirnizri_covid19_dataset.html)). A copy `covid19.h5` of our model is also provided here.
 
 Finally, this is one of the [author](https://github.com/virchan)'s portfolio projects on data science and machine learning. No medical advice is given here.
 
